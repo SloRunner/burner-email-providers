@@ -12,10 +12,15 @@ Please send a PR with any new ones you find.
 
 * [Disposable](https://github.com/0x19/disposable)
 * [Disposable Email Detector](https://www.disposable-email-detector.com)
+* [Verifier](https://verifier.meetchopra.com/)
 
 ## Libraries
 
 ### Elixir
 
 * [Burnex](https://github.com/Betree/burnex)
+
+### Go
+
+* [DED](https://github.com/namreg/ded)
 
